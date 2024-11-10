@@ -34,8 +34,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=spowerrr&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spowerrr&label=Profile%20views&color=0e75b6&style=flat" alt="spowerrr" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=spowerrr&label=Profile%20views&color=0e75b6&style=flat" alt="spowerrr" /> </p>-->
 
+<!--# Profile View Count-->
+![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
