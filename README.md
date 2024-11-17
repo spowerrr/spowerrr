@@ -47,6 +47,7 @@
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
+<a href=#><img src="contributions.svg"></a>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=spowerrr&label=Profile%20views&color=0e75b6&style=flat" alt="spowerrr" /> </p>-->
 
 <!--# Profile View Count-->
