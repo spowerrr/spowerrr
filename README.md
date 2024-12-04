@@ -36,6 +36,28 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=spowerrr&theme=solarized-dark&no-frame=false&no-bg=true&margin-w=4)
 
+
+
+
+## Languages Status
+
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=spowerrr&theme=tokyonight"  align="left">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=spowerrr&theme=tokyonight"  >
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=spowerrr&theme=tokyonight" >
+
+
+## Contribution Graph
+
+<img  src="https://github-readme-activity-graph.vercel.app/graph?username=spowerrr&theme=react-dark" >
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spowerrr&theme=tokyonight" >
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=spowerrr&theme=tokyonight">
+
+
+
+
+
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
