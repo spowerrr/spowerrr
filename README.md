@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DSA<br><br>🌱 I’m currently learning react<br><br>💬 Ask me about c,cpp,java<br><br>📫 How to reach me puspopuspo520@gmail.com<br><br>⚡ Fun fact sometimes too much expressive & sometimes serious silent<br><br>
+🔭 I’m currently working with Flutter<br><br>🌱 I’m currently learning react<br><br>💬 Ask me about c,cpp,java<br><br>📫 How to reach me puspopuspo520@gmail.com<br><br>⚡ Fun fact sometimes too much expressive & sometimes serious silent<br><br>
 
 ## 🌐 Socials:
 <p align="left">
