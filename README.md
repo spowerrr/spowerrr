@@ -125,9 +125,9 @@
 <a href="https://www.jenkins.io/" target="_blank"><img align="left" alt="Jenkins" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/jenkins.svg" /><br/></a>
 -->
 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+<!--<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" style="padding:10px;" />
-</a>
+</a>-->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="padding:10px;" />
 </a>
