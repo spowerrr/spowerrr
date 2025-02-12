@@ -58,11 +58,11 @@
 
 ### Libraries
 
-<a href="https://react.dev/" target="_blank"><img align="left" alt="React" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" /></a>
+<!--<a href="https://react.dev/" target="_blank"><img align="left" alt="React" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" /></a>
 
 <a href="https://flutter.dev/" target="_blank">
   <img align="left" alt="Flutter" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
-</a>
+</a>-->
 
 <a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="Tailwind CSS" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" /></a>
 
