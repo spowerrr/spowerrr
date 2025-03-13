@@ -35,9 +35,9 @@
 <a href="https://lua.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
   </a>
-<a href="https://dart.dev/" target="_blank">
+<!-- <a href="https://dart.dev/" target="_blank">
   <img align="left" alt="Dart" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" />
-</a>
+</a> -->
 
   
 <!--<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/typescript.svg" /></a>
